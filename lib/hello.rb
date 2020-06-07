@@ -1,7 +1,9 @@
-# lib/hello.rb
- 
-def hello_t
+def hello_t { ["Tim", "Tom", "Jim"] }
+   i = 0 
    
+   while i < array.length 
+   i = i + l
+ end
 end
 
 
